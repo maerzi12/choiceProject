@@ -1,0 +1,95 @@
+.toplabelSize .van-tab {
+    font-size: .35rem;
+    margin-left: .5rem;
+    margin-right: .5rem;
+    /* padding: 0 .2rem; */
+}
+
+.grid_size .van-icon__image {
+    width: 1.46667rem;
+    height: 1.46667rem;
+}
+
+.grid_size .van-grid-item__text {
+    font-size: .32rem;
+}
+
+.foot_div .van-tabbar {
+    height: 1.30667rem;
+}
+
+.foot_div .van-icon {
+    font-size: .5333333333333333rem;
+}
+
+.foot_div .van-tabbar-item__text {
+    font-size: .32rem;
+}
+
+.van-sidebar {
+    float: left;
+    width: 2.16rem;
+    height: 100%;
+    background-color: #fff;
+    position: relative;
+}
+
+.van-sidebar .van-sidebar-item__text {
+    font-size: .37333rem;
+    height: .66667rem;
+}
+
+.goods_downfooter .van-button__text,
+.goods_downfooter .van-goods-action-icon__icon,
+.goods_downfooter .van-goods-action-icon {
+    font-size: .37rem;
+}
+
+.goods_downfooter .van-goods-action-button {
+    height: 1.28rem
+}
+
+.navbarclass .van-nav-bar {
+    height: 1.17333rem
+}
+
+.navbarclass .van-nav-bar__title {
+    font-size: .52rem;
+}
+
+.navbarclass .van-nav-bar .van-icon {
+    margin: 6px;
+}
+
+.skuClass .van-sku__price-num,
+.skuClass .van-sku-header-item,
+.skuClass .van-sku__stock,
+.skuClass .van-sku-row__title,
+.skuClass .van-sku-row__item-name,
+.skuClass .van-sku__stepper-title,
+.skuClass .van-cell,
+.skuClass .van-sku-actions .van-button {
+    font-size: .37rem;
+}
+
+.skuClass .van-sku-actions .van-button {
+    height: 1.28rem;
+}
+
+.btnWrap .van-button--normal {
+    margin-bottom: .42667rem;
+    overflow: visible;
+    border: 0 solid #DD1A21;
+    background-color: #DD1A21;
+    text-align: center;
+    font-size: .37333rem;
+    color: #fff;
+    width: 100%;
+    height: 1.25333rem;
+    line-height: 1.25333rem;
+}
+
+.btnWrap .van-icon__image {
+    height: 1.25333rem;
+    line-height: 1.25333rem;
+}
